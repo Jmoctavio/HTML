@@ -1,2 +1,1 @@
-# HTML
-Group 3
+# EXERCISE-1-BSIT3F-GROUP-3
